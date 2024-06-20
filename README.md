@@ -1,3 +1,3 @@
 # Health
 
-Provides basic health and shield management for a Unity project.
+Provides solid drag and drop health and shield management for a Unity project.
