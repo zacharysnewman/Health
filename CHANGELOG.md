@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/zacharysnewman/health/compare/v1.0.1...v1.0.2) (2024-06-28)
+
+
+### Bug Fixes
+
+* **meta:** more conflicts with meta files ([658bee2](https://github.com/zacharysnewman/health/commit/658bee2d3392b67c6baddaf7cd8f987e4cb794d9))
+
 ## [1.0.1](https://github.com/zacharysnewman/health/compare/v1.0.0...v1.0.1) (2024-06-28)
 
 
